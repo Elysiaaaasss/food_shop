@@ -18,6 +18,7 @@ Vue Router：4.5.0
 
 运行文档：application.yaml
 
-**前端运行指令：** cd vue
+**前端运行指令：** 
+cd vue
 
-                    npm run dev
+npm run dev
